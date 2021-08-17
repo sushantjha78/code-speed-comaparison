@@ -1,4 +1,5 @@
 # code-speed-comaparison
+### Note: The time taken will vary with the clock frequency of the computing unit.
 Comparing the execution time of C, Python, Java codes
 (All instances of time are in seconds)
 ## C:
